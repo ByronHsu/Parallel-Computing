@@ -1,2 +1,6 @@
 *.e*
 *.o*
+*.pages
+*.dotx
+.vscode
+.DS_Store
